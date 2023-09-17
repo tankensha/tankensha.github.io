@@ -13,5 +13,10 @@
 
 This will have a collection of websites and links that will help you throughout medical school. I hope you find them useful. @@html:<span class="ja">これには、医学部全体を通して役立つウェブサイトやリンクが集められている。ぜひ参考にしてください。</span>@@
 
+#+ATTR_HTML: :class sortable
 | Page | Title              |
 |------+--------------------|
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
