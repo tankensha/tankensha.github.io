@@ -2,7 +2,7 @@
 
 [[https://github.com/tankensha/tankensha.github.io/edit/main/src/resources/001.org][Edit]]
 
-[[file:../index.org][Home]]
+[[file:./index.org][Home]]
 
 -----
 
