@@ -13,6 +13,18 @@ This website will have many things about learning. It will teach you how to lear
 
 Please have a look at the table below. Click on the link which you want to read. @@html:<span class="ja">以下の表をご覧ください。ご覧になりたいリンクをクリックしてください。</span>@@
 
+* Chapters
+:PROPERTIES:
+:CUSTOM_ID: org24a06a9
+:END:
+
+Please click on one of these links. @@html:<span class="ja">これらのリンクのいずれかをクリックしてください。</span>@@
+
+| Title            | Description                                                  |
+|------------------+--------------------------------------------------------------|
+| [[file:./learn/index.org][Learn - 学ぶ]]     | This has some study tips.                                    |
+| [[file:./resources/index.org][Resources - 資源]] | This has some resources that can help you in medical school. |
+
 * Disclaimer
 :PROPERTIES:
 :CUSTOM_ID: org1b89221
