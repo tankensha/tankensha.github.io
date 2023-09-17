@@ -21,6 +21,7 @@ This will have a collection of websites and links that will help you throughout 
 | Skills     | [[https://www.oscestop.com]]                                                               | This has a lot of good OSCE explanations.                                |
 | Embryology | [[https://embryology.med.unsw.edu.au/embryology/index.php/Main_Page]]                      | This explains embryology in detail. It has a lot of pictures and videos. |
 | Skills           | [[https://geekymedics.com/]]                                                                                       | This has a lot of good OSCE videos.                                                                         |
+| Japanese           | [[https://deepl.com/]]                                                                                       | This the best translator. I use it for this website!                                                                         |
 
 #+BEGIN_EXPORT html
 <script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
