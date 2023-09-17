@@ -1,4 +1,4 @@
-#+TITLE: Learn
+#+TITLE: Learn - 学ぶ
 
 [[https://github.com/tankensha/tankensha.github.io/edit/main/src/learn/index.org][Edit]]
 
