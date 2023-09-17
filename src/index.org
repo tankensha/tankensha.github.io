@@ -1,4 +1,4 @@
-#+TITLE: 探検者
+#+TITLE: Tankensha - 探検者
 
 [[https://github.com/tankensha/tankensha.github.io/edit/main/src/index.org][Edit]]
 
