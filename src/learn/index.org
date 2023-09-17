@@ -1,0 +1,23 @@
+#+TITLE: Learn
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/learn/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: org3c1ff02
+:END:
+
+Here is a place for you to learn more about how you can remember things better. @@html:<span class="ja">ここでは、物事をよりよく記憶する方法について、より深く知ることができます。</span>@@
+
+These techniques have been proven by science. @@html:<span class="ja">これらの技術は、科学的にも証明されています。</span>@@
+
+| Page | Title              |
+|------+--------------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org57c99b0][Foundation Programme]] |
+| [[file:./001.org][001]]  | [[file:./001.org::#org58f2c22][暗記]] |
+| [[file:./001.org][001]]  | [[file:./001.org::#org4279268][繰り返し、記憶する]] |
+| [[file:./001.org][001]]  | [[file:./001.org::#org7e93de5][語呂合わせの表]]     |
