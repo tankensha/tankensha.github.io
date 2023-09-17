@@ -1,0 +1,27 @@
+name: Initialise the entire site
+
+on:
+  schedule:
+    - cron: '0 0 * * 0' # Runs at midnight (00:00) every Sunday
+
+  workflow_dispatch:
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+ 
+      - name: Install Emacs
+        run: sudo apt-get install emacs
+
+      - name: Build the site
+        run: emacs -Q --script org-publish-2.el
+
+      - name: Publish generated content to GitHub Pages branch
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          commit-message: Update ${{ github.sha }}
+          folder: public
