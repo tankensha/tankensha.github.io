@@ -14,3 +14,16 @@ This website will have many things about learning. It will teach you how to lear
 
 Please have a look at the table below. Click on the link which you want to read. @@html:<span class="ja">以下の表をご覧ください。ご覧になりたいリンクをクリックしてください。</span>@@
 
+* Disclaimer
+:PROPERTIES:
+:CUSTOM_ID: org1b89221
+:END:
+
+Disclaimer! @@html:<span class="ja">免責事項！</span>@@
+
+Please note that the translation may not be correct. However, I will try my absolute best to make sure that the translation is as accurate as possible. @@html:<span class="ja">翻訳が正確でない可能性があることをご了承ください。しかし、可能な限り正確な翻訳をするよう、絶対的な努力をします。</span>@@
+
+The content of this site is not intended as medical advice or as a diagnostic tool. If you have a medical problem, you should seek medical advice. @@html:<span class="ja">本サイトのコンテンツは、医学的なアドバイスや診断のためのものではありません。医療上の問題がある場合は、医師の診断を受ける必要があります。</span>@@
+
+Unless otherwise noted, original content on this site is licensed under [[https://raw.githubusercontent.com/tankensha/tankensha.github.io/main/LICENSE][GNU GENERAL PUBLIC LICENSE]]. @@html:<span class="ja">特に断りのない限り、このサイトのオリジナルコンテンツは<a href="https://raw.githubusercontent.com/tankensha/tankensha.github.io/main/LICENSE">GNU GENERAL PUBLIC LICENSE</a>の下でライセンスされています。</span>@@
+
