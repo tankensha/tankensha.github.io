@@ -1,1 +1,16 @@
+#+TITLE: 探検者
+#+OPTIONS: title:nil
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/index.org][FIY]]
+
+-----
+
+* Welcome to tankensha
+:PROPERTIES:
+:CUSTOM_ID: orgb94ea5c
+:END:
+
+This website will have many things about learning. It will teach you how to learn! @@html:<span class="ja">このウェブサイトには、学習に関する様々なことが掲載されています。学び方を教えてくれます！</span>@@
+
+Please have a look at the table below. Click on the link which you want to read. @@html:<span class="ja">以下の表をご覧ください。ご覧になりたいリンクをクリックしてください。</span>@@
 
