@@ -1,5 +1,4 @@
 #+TITLE: 探検者
-#+OPTIONS: title:nil
 
 [[https://github.com/tankensha/tankensha.github.io/edit/main/src/index.org][Edit]]
 
