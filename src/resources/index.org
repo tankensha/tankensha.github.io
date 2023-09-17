@@ -1,0 +1,17 @@
+#+TITLE: Resources - 資源
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/resources/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: org3c1ff02
+:END:
+
+This will have a collection of websites and links that will help you throughout medical school. I hope you find them useful. @@html:<span class="ja">これには、医学部全体を通して役立つウェブサイトやリンクが集められている。ぜひ参考にしてください。</span>@@
+
+| Page | Title              |
+|------+--------------------|
