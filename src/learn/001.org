@@ -1,0 +1,140 @@
+#+TITLE: Learn 001
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/learn/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+-----
+
+#+TOC: headlines 2
+
+* 暗記
+:PROPERTIES:
+:CUSTOM_ID: org58f2c22
+:END:
+
+Posted: 2023-09-03 | Updated: 2023-09-03
+
+Ok. First, I need you to understand two important things @@html:<span class="ja">分かった。まず、2つの重要なことを理解してほしい</span>@@:
+1. Repetition: when you study something many times, you will remember it. @@html:<span class="ja">間隔をあけた復習：何度も勉強すれば、覚えられる。</span>@@
+2. Flashcard: this is card that you can use to remember things. Each card has 2 sides. On the front side, there is a question. On the back side, there is the answer. @@html:<span class="ja">単語帳：これは、物事を記憶するためのカードです。カードには2つの面がある。表には質問。裏面には答えがあります。</span>@@
+
+So, Anki helps you to do both of these things. All you have to do is write the questions, and then Anki will ask you the questions every day to help you remember things forever. @@html:<span class="ja">Ankiは、この2つをサポートします。質問を書くだけで、あとはAnkiが毎日書いた質問をし続けてくれるので、いつまでも物事を覚えておくことができます。</span>@@
+
+The best way to use Anki is to do the questions every day. Usually, it only takes 15 minutes per day! Not bad!!!! @@html:<span class="ja">Ankiを使う最良の方法は、毎日問題を解くことです。通常、1日15分しかかかりません！悪くない！！！！</span>@@
+
+15 minutes per day will help you remember things forever! @@html:<span class="ja">一日15分で、物事をいつまでも覚えていられる！これはすごいですね！</span>@@
+
+There are some tips and tricks that I can help you with to make it even more fun and easy for you. I will help you to create good questions. @@html:<span class="ja">もっと楽しく、もっと簡単にするために、私がお手伝いできるコツがあります。良い質問を作るお手伝いをします。</span>@@
+
+Here are 5 important rules created by very intelligent scientists @@html:<span class="ja">ここでは、非常に知的な科学者たちによって作られた5つの重要なルールを紹介する</span>@@:
+1. Do not learn what you do not understand. @@html:<span class="ja">理解できないことを学んではいけない。</span>@@
+2. Start from basics before studying the very complex stuff. @@html:<span class="ja">非常に複雑なことを勉強する前に、基礎から始める。</span>@@
+3. Make sure that you questions are simple. @@html:<span class="ja">質問は簡単なものにしてください。</span>@@
+4. If you add a story to your questions, you will remember things better. @@html:<span class="ja">質問にストーリーを付け加えれば、物事をよりよく覚えることができる。</span>@@
+5. Pictures make your memory stronger. This is the reason why I draw a lot of (awful) pictures for you 笑 @@html:<span class="ja">絵は記憶を強くする。これが、私があなたのためにたくさんの（ひどい）絵を描く理由です笑</span>@@
+
+Look at the 3rd rule. I will now show you some examples @@html:<span class="ja">第3のルールを見てください。これからいくつかの例をお見せしましょう</span>@@:
+| Good card                                                                                         | Bad card                                                                                                                                                                                                               |
+|-------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| @@html:Question: What is the capital city of Japan?<br>Answer: Tokyo@@                                | @@html:Question: What are all of the cities in Japan?<br>Answer: Nagoya, Toyohashi, Okazaki, Ichinomiya, Seto, Handa, Kasugai, Toyokawa, Tsushima, Hekinan, Kariya, Toyota, Anjō, Nishio, Gamagōri, Inuyama, and more!!!@@ |
+| @@html:Question: What is the first line treatment of myoclonic seizure?<br>Answer: Sodium valproate@@ | @@html:Question: What are all of the drugs used in epilepsy?<br>Answer: Brivaracetam, Cannabidiol, Carbamazepine, Cenobamate, Clobazam, Clonazepam, Diazepam, Eslicarbazepine acetate, Ethosuximide, and more!!!!!!!!@@    |
+| @@html:Question: How much caffeine is there in 100 ml of coffee?<br>Answer: 40 mg@@                   | @@html:Question: What are chemicals found in coffee?<br>Answer: Quinic acid, caffeine, putrescine, theophylline, trigonelline, acetoin, and much more!!!!@@                                                                |
+
+Do you see? Good cards are usually short and they have only one fact. @@html:<span class="ja">わかりますか？良いカードはたいてい短く、事実はひとつしかない。</span>@@
+
+Now, let's say you read paragraph this on Tankensha (it's from this [[file:../n/002.org::#org99809f1][topic]]):
+- The herpes simplex virus is the most common cause of encephalitis. Herpes simplex virus mainly affect the temporal lobe of the brain. @@html:<span class="ja">単純ヘルペスウイルスは脳炎の最も一般的な原因である。単純ヘルペスウイルスは主に脳の側頭葉を侵す。</span>@@
+
+So, let's make some questions from this sentence @@html:<span class="ja">では、この文章からいくつかの質問を作ってみよう</span>@@:
+1. Which virus is the most common cause of encephalitis? @@html:<span class="ja">脳炎の最も一般的な原因はどのウイルスか？</span>@@
+2. In encephalitis, which part of the brain does herpes simplex virus mainly affect? @@html:<span class="ja">脳炎において、単純ヘルペスウイルスは主に脳のどの部分に影響を及ぼすか？</span>@@
+
+Do you see? We made two questions! And, each question only has 1 possible answer. @@html:<span class="ja">わかりますか？私たちは2つの質問を作った！そして、それぞれの質問には1つの答えしかありません。</span>@@
+
+Do not worry if you don't understand this. I will write questions for you! @@html:<span class="ja">わからなくても心配しないでください。私が質問を書きます！</span>@@
+
+There is a another style of questions. This is known as fill-in-the-gap questions. I will tell you about these soon! @@html:<span class="ja">もう一つの質問スタイルがある。穴埋め問題と呼ばれるものです。これについては、近々お話ししましょう！</span>@@
+
+* 繰り返し、記憶する
+:PROPERTIES:
+:CUSTOM_ID: org4279268
+:END:
+
+If you have tried writing and drawing things, and you thought that it is not useful, then you can ignore this advice!!!! @@html:<span class="ja">もし、あなたが物を書いたり描いたりしてみて、役に立たないと思ったのであれば、このアドバイスは無視していただいて結構です！！！！</span>@@
+
+However, repeating things must be followed. This is the most efficient way for humans to learn quickly. @@html:<span class="ja">ただし、物事を繰り返すことは、必ず守らなければならない。これは、人間が素早く学ぶための最も効率的な方法です。</span>@@
+
+This is probably basic stuff for you. @@html:<span class="ja">これは、あなたにとって基本的なことでしょう。</span>@@
+
+But, I do not want to assume that you know this. So, I will write it here just as a reminder. @@html:<span class="ja">しかし、私は、あなたがすでに知っていると決めつけたくはない。だから、念のためここに書いておく。</span>@@
+
+It is so important to repeat the things over and over again. @@html:<span class="ja">何度も何度も繰り返すことがとても大切なのです。</span>@@
+
+Not only that, but they must be repeated over a long period of time. @@html:<span class="ja">それだけでなく、長期間にわたって繰り返されなければならない。</span>@@
+
+The stories which I create for you must be repeated frequently. Otherwise, you will forget them. @@html:<span class="ja">私があなたのために作った物語は、頻繁に繰り返されなければならない。そうでなければ、忘れてしまうでしょう。</span>@@
+
+However, the good thing about these strange stories is that they will require less repetition. This is because they are weird. Weird things will stick in your mind better. @@html:<span class="ja">しかし、これらの奇妙な話の良いところは、あなたが頻繁に繰り返す必要がないことです。なぜなら、それらは奇妙なものだからです。変なものの方が心に残るのです。</span>@@
+
+Believe me. @@html:<span class="ja">私を信じてください。</span>@@
+
+Another thing is writing. For example, when I tell you about a new fact, you must write it down on a piece of paper. Write it a couple of times. @@html:<span class="ja">もうひとつは、書くことです。例えば、私が新しい事実を話したら、それを紙に書かなければなりません。2、3回書いてみてください。</span>@@
+
+For example: levothyroxine is used to treat HYPOthryoidism. @@html:<span class="ja">例：レボチロキシンは、甲状腺機能低下症の治療に使用されます。</span>@@
+
+You do not have to write the entire sentence. Just pick out the main idea. @@html:<span class="ja">文章を全部書く必要はありません。メインアイデアを拾い出すだけでいい。</span>@@
+
+In the example above, you can write the following: "levothyroxine treats HYPOthryoidism". @@html:<span class="ja">上の例では、次のように書けます: 「レボサイロキシンは、甲状腺の活動低下を治療するものです。」</span>@@
+
+Now, you need to write this one a piece of paper or on an iPad. Choose whatever you are comfortable with. @@html:<span class="ja">さて、これを紙かiPadに書いてください。自分がやりやすいものを選んでください。</span>@@
+
+Writing things will force your brain to focus. It will make your brain learn the information better. @@html:<span class="ja">ものを書くことで、脳が強制的に集中する。それはあなたの脳が情報をよりよく学ぶようになります。</span>@@
+
+Same thing with drawing funny and weird pictures. These will help you remember things. @@html:<span class="ja">面白い絵や変な絵を描くのも同じです。これらは物事を覚えるのに役立ちます。</span>@@
+
+Keep writing. Keep drawing. And, more importantly, keep repeating! @@html:<span class="ja">書き続ける。描き続ける。そして、もっと大切なのは、繰り返し続けることだ！</span>@@
+
+Keep writing. Keep drawing. And, more importantly, keep repeating! @@html:<span class="ja">書き続ける。描き続ける。そして、もっと大切なのは、繰り返し続けることだ！</span>@@
+
+Keep writing. Keep drawing. And, more importantly, keep repeating! @@html:<span class="ja">書き続ける。描き続ける。そして、もっと大切なのは、繰り返し続けることだ！</span>@@
+
+Keep writing. Keep drawing. And, more importantly, keep repeating! @@html:<span class="ja">書き続ける。描き続ける。そして、もっと大切なのは、繰り返し続けることだ！</span>@@
+
+Keep writing. Keep drawing. And, more importantly, keep repeating! @@html:<span class="ja">書き続ける。描き続ける。そして、もっと大切なのは、繰り返し続けることだ！</span>@@
+
+Keep writing. Keep drawing. And, more importantly, keep repeating! @@html:<span class="ja">書き続ける。描き続ける。そして、もっと大切なのは、繰り返し続けることだ！</span>@@
+
+ひひひひ、ごめん...。
+
+* 語呂合わせの表
+:PROPERTIES:
+:CUSTOM_ID: org7e93de5
+:END:
+
+This is a table of goroawase. I am putting this table here to make it easier for you to create your own story.  @@html:<span class="ja">これは、語呂合わせの表です。私は、あなたが自分のストーリーを作りやすいように、この表をここに置いています。</span>@@
+
+| 命数法       | 訓読み           | 音読み           | 英語             |
+|--------------+------------------+------------------+------------------|
+| 0, 〇, 零    | ま, まる, わ     | れ, れい         | オ, ゼ, ゼロ     |
+| 1, 一, 壹/壱 | ひ, ひと, ひとつ | い, いち         | ワン             |
+| 2, 二, 貳/弐 | ふ, ふた, ふたつ | に, じ           | ツー, トゥー     |
+| 3, 三, 參/参 | み, みつ         | さ, さん         | スリー           |
+| 4, 四, 肆    | よ, よん, よつ   | し               | フォー           |
+| 5, 五, 伍    | いつ, いつつ     | ご, こ           | ファイブ         |
+| 6, 六, 陸    | む, むつ         | ろ, ろく         | シックス         |
+| 7, 七, 柒    | な, なな, ななつ | ち, しち         | セ, ゼ, セブン   |
+| 8, 八, 捌    | や, やつ         | は, ば, はち     | エ, エイ, エイト |
+| 9, 九, 玖    | こ, ここのつ     | く, きゅ, きゅう | ナイン           |
+| 10, 十, 拾   | と, とお         | じ, じゅう       | テ, テン         |
+| ., 点        | テン             | (decimal point)  |                  |
+
+** Resources
+:PROPERTIES:
+:CUSTOM_ID: orga66a124
+:END:
+
+Here are some useful websites for you:
+- [[http://www2u.biglobe.ne.jp/~b-jack/bn/pken.html]] - you can put numbers in this website, and it will create goroawase for you. This is a really good website. I recommend that you use it. @@html:<span class="ja">このサイトに数字を入れると、あなたの語呂合わせを作ってくれるんです。これは本当に良いサイトです。私はあなたに使うように勧めています。</span>@@
+- [[https://terakoya.ameba.jp/a000001596/]] - this website teaches you how to use goroawase. @@html:<span class="ja">このサイトでは、語呂合わせの使い方を紹介しています。</span>@@
+- [[https://seoi.net/goro/]] - this is another website which can create goroawase for you. @@html:<span class="ja">こちらもあなたの語呂合わせを作成することができるサイトです。</span>@@
