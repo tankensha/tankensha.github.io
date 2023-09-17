@@ -5,7 +5,7 @@
 
 -----
 
-* Welcome to tankensha
+* Welcome to Tankensha
 :PROPERTIES:
 :CUSTOM_ID: orgb94ea5c
 :END:
