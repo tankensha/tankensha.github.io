@@ -56,6 +56,12 @@ th {
 	border: 1px solid;
 }
 
+span.ja {
+  background: #fefeba;
+  color: #545440;
+  font-size: em;
+}
+
 @media (max-width: 500px) {
 	html {
 		padding: revert;
