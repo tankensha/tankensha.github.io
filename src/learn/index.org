@@ -15,8 +15,13 @@ Here is a place for you to learn more about how you can remember things better. 
 
 These techniques have been proven by science. @@html:<span class="ja">これらの技術は、科学的にも証明されています。</span>@@
 
+#+ATTR_HTML: :class sortable
 | Page | Title              |
 |------+--------------------|
 | [[file:./001.org][001]]  | [[file:./001.org::#org58f2c22][暗記]] |
 | [[file:./001.org][001]]  | [[file:./001.org::#org4279268][繰り返し、記憶する]] |
 | [[file:./001.org][001]]  | [[file:./001.org::#org7e93de5][語呂合わせの表]]     |
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
