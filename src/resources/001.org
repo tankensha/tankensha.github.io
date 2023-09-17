@@ -1,0 +1,27 @@
+#+TITLE: Resources 001
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/resources/001.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: org3c1ff02
+:END:
+
+This will have a collection of websites and links that will help you throughout medical school. I hope you find them useful. @@html:<span class="ja">これには、医学部全体を通して役立つウェブサイトやリンクが集められている。ぜひ参考にしてください。</span>@@
+
+#+ATTR_HTML: :class sortable
+| Subject    | Link                                                                                   | Description                                                              |
+|------------+----------------------------------------------------------------------------------------+--------------------------------------------------------------------------|
+| Anatomy    | [[https://teachmeanatomy.info/]]                                                           | This is a good anatomy website. Use this a lot!                          |
+| Physiology | [[https://www.pondermed.com/pondering-cardiology/hunting-culprit-properly-understanding/]] | Nice explanation of ECG                                                  |
+| Skills     | [[https://www.oscestop.com]]                                                               | This has a lot of good OSCE explanations.                                |
+| Embryology | [[https://embryology.med.unsw.edu.au/embryology/index.php/Main_Page]]                      | This explains embryology in detail. It has a lot of pictures and videos. |
+|            |                                                                                        |                                                                          |
+
+#+BEGIN_EXPORT html
+<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
