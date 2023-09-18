@@ -20,5 +20,5 @@ This will have a collection of websites and links that will help you throughout 
 
 
 #+BEGIN_EXPORT html
-<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+<script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
 #+END_EXPORT
