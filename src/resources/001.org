@@ -11,7 +11,7 @@
 :CUSTOM_ID: org3c1ff02
 :END:
 
-This will have a collection of websites and links that will help you throughout medical school. I hope you find them useful. @@html:<span class="ja">これには、医学部全体を通して役立つウェブサイトやリンクが集められている。ぜひ参考にしてください。</span>@@
+Here is the table!
 
 #+ATTR_HTML: :class sortable
 | Subject    | Link                                                                                   | Description                                                              |
