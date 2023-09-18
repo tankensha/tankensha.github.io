@@ -18,7 +18,6 @@ This will have a collection of websites and links that will help you throughout 
 |------|
 | [[file:./001.org][001]]  |
 
-
 #+BEGIN_EXPORT html
 <script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
 #+END_EXPORT
