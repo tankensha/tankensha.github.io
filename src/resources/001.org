@@ -24,5 +24,5 @@ Here is the table!
 | Japanese           | [[https://deepl.com/]]                                                                                       | This the best translator. I use it for this website!                                                                         |
 
 #+BEGIN_EXPORT html
-<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+<script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
 #+END_EXPORT
