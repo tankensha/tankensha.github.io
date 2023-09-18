@@ -8,7 +8,7 @@
 
 -----
 
-#+TOC: headlines 2
+#+TOC: headlines 1
 
 * Levothyroxine
 :PROPERTIES:
