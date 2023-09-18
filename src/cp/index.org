@@ -1,0 +1,42 @@
+#+TITLE: Clinical Pharmacology - 臨床薬理学
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/cp/index.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+* Introduction
+:PROPERTIES:
+:CUSTOM_ID: org3c1ff02
+:END:
+
+In here you will find a table of different drugs. @@html:<span class="ja">この中に、さまざまな薬剤の表があります。</span>@@
+
+I will give you some silly stories so that you remember them. @@html:<span class="ja">思い出に残るように、くだらない話をします。</span>@@
+
+Hopefully, this will help you. @@html:<span class="ja">うまくいけば、お役に立てるかもしれません。</span>@@
+
+You can use this list to create your /own/ stories! @@html:<span class="ja">これらのニーモニックを使って、あなただけのバカ話を作ることができます！</span>@@
+
+Message me if you would like me to make a mnemonic for a certain drug! @@html:<span class="ja">もし、ある薬のニモニックを作ってほしいということであれば、ぜひ教えてください！</span>@@
+
+* List of drugs
+:PROPERTIES:
+:CUSTOM_ID: drugs
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Drug name     |
+|------+---------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#levothyroxine][Levothyroxine]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#desmopressin][Desmopressin]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#misoprostol][Misoprostol]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#clotrimazole][Clotrimazole]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#mifepristone][Mifepristone]]  |
+| [[file:./001.org][001]]  | [[file:./001.org::#fluconazole][Fluconazole]]   |
+| [[file:./001.org][001]]  | [[file:./001.org::#metronidazole][Metronidazole]] |
+
+#+BEGIN_EXPORT html
+<script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
