@@ -1,0 +1,146 @@
+#+TITLE: Clinical Pharmacology 001
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/cp/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Desmopressin
+:PROPERTIES:
+:CUSTOM_ID: desmopressin
+:END:
+- Desmopressin. @@html:<span class="ja">デスモプレシン。</span>@@
+- This drug is used to replace antidiuretic hormone (ADH) in the body. @@html:<span class="ja">本剤は、体内の抗利尿ホルモン(ADH)を補充するために使用されます。</span>@@
+- They give this drug to people who cannot produce ADH. @@html:<span class="ja">ADHを産生できない人にこの薬を投与するのです。</span>@@
+- Antidiuretic hormone stops the human from urinating. @@html:<span class="ja">抗利尿ホルモンは、人間の排尿を止める。</span>@@
+- Antidiuretic hormone helps the human body store water. @@html:<span class="ja">抗利尿ホルモンは、人間の体に水分を蓄える働きがあります。</span>@@
+-  @@html:<span class="ja">うーん。。。デスモプレシン。。。。。。スモプレシン。。。デスモ。。。。。。。。。</span>@@
+- Ah! The part @@html:<span class="ja">スモ</span>@@ sounds similar to @@html:<span class="ja">相撲！</span>@@
+- Maybe that is the secret for why Sumo @@html:<span class="ja">相撲</span>@@ fighters are so big!! They must eat a lot of desmopressin!! @@html:<span class="ja">相撲の相撲が大きいのは、そのせいかもしれませんね！！デスモプレシンを大量に摂取しているのでしょう！！</span>@@
+- So... if they eat a lot of desmopressin then they must store a lot of water in their bodies (which makes them big)! @@html:<span class="ja">ということは...デスモプレシンをたくさん食べれば、体内にたくさんの水を蓄えることになる（だから大きくなる）！すごいよ！！！！</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org15fed98
+:END:
+
+- See this [[https://drive.google.com/uc?export=view&id=1ufJJzU2e7rVGYQvUJuTYC3mUFM9J1Ppv][picture]].
+- Whenever you see desmopressin, remember the sumo fighters. Sumo fighters eat a lot of desmopressin so that they store more water in their bodies!! @@html:<span class="ja">デスモプレシンを見かけたら、<mark>相撲</mark>取りのことを思い出してください。相撲取りは、体内に水分を多く蓄えるために、デスモプレシンをたくさん食べているのです！！</span>@@
+
+* Misoprostol
+:PROPERTIES:
+:CUSTOM_ID: misoprostol
+:END:
+
+- Misoprostol. @@html:<span class="ja">ミソプロストール。</span>@@
+- @@html:<span class="ja">ミソ。。。うーん。。。。あ！味噌！！！！</span>@@
+- @@html:<span class="ja">プロ。。。あ！！！プロ！！！！！！！すごい！！！！</span>@@
+- @@html:<span class="ja">味噌いプロ！！！！！！</span>@@
+- You are a professional miso soup chef!!! You always drink miso soup!!!!!!! @@html:<span class="ja">あなたはプロの味噌汁職人です！！！いつもお味噌汁を飲んでるんですね！！！！！！！</span>@@
+- Abortion is usually emotional for the woman. So, she might be sad after the abortion process. So, you give her miso soup to to make her feel warm. @@html:<span class="ja">中絶は通常、その女性にとって感情的なものです。だから、中絶の後、彼女は悲しむかもしれない。そこで、あなたは彼女に<mark>味噌</mark>汁を与えて、暖かい気持ちにさせるのです。</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org42c4f52
+:END:
+
+- Whenever you see misoprostol, imagine yourself as a professional miso soup maker! You make miso soup for women who had abortion!!! @@html:<span class="ja">ミソプロストールを見るたびに、自分が<mark>味噌いプロ</mark>汁職人であることを想像してください！中絶した女性のために味噌汁を作るのです！！！</span>@@
+
+* Clotrimazole
+:PROPERTIES:
+:CUSTOM_ID: clotrimazole
+:END:
+
+- Clotrimazole. @@html:<span class="ja">クロトリマゾール。</span>@@
+- @@html:<span class="ja">うーん。。。クロ？くろ？？黒？？？</span>@@
+  - This means "black", right?
+- What about @@html:<span class="ja">トリ</span>@@?
+- @@html:<span class="ja">うーん。。。トリ？とり？？鳥？？？</span>@@
+  - This means "bird", right?
+- @@html:<span class="ja">マゾール。。。まぜる。。。混ぜる？？？？</span>@@
+  - This means "to mix something", right?
+- So... let's combine "black" and "bird" to get @@html:<span class="ja">黒い鳥</span>@@...
+- Let's add the last word in to get... @@html:<span class="ja">黒い鳥は、後で食べるために菌類を混ぜている。。。。</span>@@
+- I know, I know... I added @@html:<span class="ja">い</span>@@ and this is cheating... but who cares!!!!
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org53bba51
+:END:
+
+- Whenever you see clotrimazole, try to think of a black bird mixing fungi! @@html:<span class="ja"><mark>黒い鳥</mark>は、後で食べるために菌類を<mark>混ぜている</mark>！</span>@@
+
+* Mifepristone
+:PROPERTIES:
+:CUSTOM_ID: mifepristone
+:END:
+
+- Mifepristone. @@html:<span class="ja">ミフェプリストン。</span>@@
+- @@html:<span class="ja">うーん。。。みふ？うーーーーん。。。みぷ？みっぷ？？？あ！！！！！密夫！！！</span>@@
+  - This means "lover (of a married woman)", right?
+  - So, basically, the married woman is cheating on her husband with an alien... @@html:<span class="ja">つまり、基本的に人妻は宇宙人と浮気をしている...ということですね。</span>@@
+- This drug is used for abortion. @@html:<span class="ja">この薬は、中絶に使用されます。</span>@@
+- Imagine a wife coming to her second husband @@html:<span class="ja">密夫</span>@@ (who is actually an alien) and she tells him that her baby is actually an alien, and therefore she is going to terminate the pregnancy. @@html:<span class="ja">ある妻が<mark>密夫</mark>(実は宇宙人)のところにやってきて、自分の赤ちゃんは実は宇宙人だから、妊娠を解消しようと思っている、と告げたとします。</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: orgc223087
+:END:
+
+- Whenever you see mifepristone, remember that there is a woman who cheated on her husband with an alien. Then, she was pregnant, and her fetus was an alien. So, she wanted to have an abortion. @@html:<span class="ja">ミフェプリストンを見るたびに、宇宙人(その宇宙人は彼女の「<mark>密夫</mark>」だったのだ)と浮気をした女性がいることを思い出してください。そして、彼女は妊娠し、その胎児は宇宙人だったのです。それで、彼女は中絶を望んだ。</span>@@
+- Sorry, I know this is not a great story... it was so difficult to think of a good one. Maybe you can think of a good one! @@html:<span class="ja">すみません、大した話じゃないんですが...なかなかいいのが思いつかなくて。もしかしたら、あなたならいいのが思い浮かぶかもしれませんよ。</span>@@
+
+* Fluconazole
+:PROPERTIES:
+:CUSTOM_ID: fluconazole
+:END:
+
+- Fluconazole. @@html:<span class="ja">フルコナゾール。</span>@@
+- Furu... kona...... @@html:<span class="ja">フル。。。コナ。。。。。。</span>@@
+- Furu? @@html:<span class="ja">フル？ふる？？古？？？</span>@@
+  - This means "old", right? Hmmmm...
+- What about the "kona"...? @@html:<span class="ja">「コナ」はどうでしょう。。。？</span>@@
+- Wait a minute... Kona? Cona? Conan?!?! @@html:<span class="ja">ちょっと待てよ。。。コナ？コナ？コナンか？！？！</span>@@
+- Okay... so now we have @@html:<span class="ja">古</span>@@ and @@html:<span class="ja">コナン</span>@@...
+- Hmmmm... maybe something like @@html:<span class="ja">古いコナン</span>@@
+- Poor Conan... he was always so small and young... @@html:<span class="ja">コナンくんがかわいそう。。。いつも小さくて幼かったから。。。</span>@@
+- But not anymore!
+- Conan is now 293 years old! @@html:<span class="ja">コナンが293歳に！</span>@@
+- They grow up so fast :')
+- Conan is a fun guy (haha get it? "Fun guy" sounds like the word "fungi")
+  - Fluconazole kills fungus...
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org6880fa2
+:END:
+- Here is a [[https://drive.google.com/uc?export=view&id=1LeKUlf8XCByYdCk4Hu1cZuZJATg3WUIF][picture]]!
+- Whenever you see fluconazole, think of @@html:<span class="ja">古いコナン</span>@@ doing something like arresting fungi... @@html:<span class="ja">フルコナゾールを見たら、古いコナンが真菌を捕まえるようなことをしていると思え。。。</span>@@
+- Or maybe think of Conan being a fun guy... lol. @@html:<span class="ja">それとも、コナンが「fun guy」だと思えばいいのか。。。笑。</span>@@
+
+* Metronidazole
+:PROPERTIES:
+:CUSTOM_ID: metronidazole
+:END:
+
+- Metronidazole. @@html:<span class="ja">メトロニダゾール。</span>@@
+- Hmmmm. Metronidazole...
+- /Metro/ nidazole...
+- This sounds like a metro train!!! @@html:<span class="ja">これって、メトロの電車みたいですね！！！</span>@@
+- Metro trains are soooooooo fast! @@html:<span class="ja">メトロの電車って速いんですねー！</span>@@
+- Maybe this metro train was made in Japan? @@html:<span class="ja">もしかして、このメトロの車両は日本製？</span>@@
+- Anyway... this metro train likes to run over different bacteria lol. @@html:<span class="ja">とにかく...このメトロの列車は、異質なバクテリアの上を走るのが好きなんです笑</span>@@
+- Do /not/ give this to people who drink alcohol! It will interact with the alcohol!!!!!! @@html:<span class="ja">お酒を飲む人には与えないでください！アルコールと相互作用してしまいます！！！！！！</span>@@
+  - You can't drive the metro train if you've had alcohol... Right? It's too dangerous! @@html:<span class="ja">飲んだらメトロは運転できない。。。そうだろ？危険すぎる！</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: org2571d15
+:END:
+
+- Whenever you see metronidazole, think of a metro train! @@html:<span class="ja">メトロニダゾールを見たら、メトロの列車を思い浮かべるんだ！</span>@@
