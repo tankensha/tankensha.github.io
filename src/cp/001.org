@@ -10,6 +10,27 @@
 
 #+TOC: headlines 2
 
+* Levothyroxine
+:PROPERTIES:
+:CUSTOM_ID: levothyroxine
+:END:
+
+- Levothyroxine. @@html:<span class="ja">レボチロキシン。</span>@@
+- @@html:<span class="ja">レボ</span>@@ = sounds like revolt/revolution (@@html:<span class="ja">レボリューション/革命</span>@@).
+- @@html:<span class="ja">チロ</span>@@ = @@html:<span class="ja">しろ</span>@@ = castle = @@html:<span class="ja">城</span>@@.
+- @@html:<span class="ja">きしん</span>@@ = @@html:<span class="ja">鬼神</span>@@ = fierce God.
+- This drug is used for thyroid hormone replacement in HYPOthryoidism. @@html:<span class="ja">本剤は、甲状腺機能低下症における甲状腺ホルモン補充に使用されます。</span>@@
+- Imagine your thyroid as @@html:<span class="ja">鬼神</span>@@ living inside your neck, which is the @@html:<span class="ja">城</span>@@ of the @@html:<span class="ja">鬼神</span>@@. The @@html:<span class="ja">鬼神</span>@@ is no longer producing good hormones, and so people are getting angry. Therefore, they started to do a @@html:<span class="ja">レボリューション</span>@@ against @@html:<span class="ja">鬼神</span>@@. @@html:<span class="ja">甲状腺は、首の中に住んでいる鬼神と想像してください、鬼神の城です。その鬼神が良いホルモンを出さなくなったので、みんな怒っているんです。そこで、鬼神に対するレボリューションを始めたのです。</span>@@
+- The people wanted to destroy the @@html:<span class="ja">城</span>@@.
+- When they started the @@html:<span class="ja">レボリューション</span>@@, the body started to think that these people are thyroid hormones. So... the body is now happy. @@html:<span class="ja">レボリューションを始めたら、体が「この人たちは甲状腺ホルモンだ」と思うようになった。だから... 体が喜ぶようになったんです。</span>@@
+
+** Summary
+:PROPERTIES:
+:CUSTOM_ID: orgfeffe34
+:END:
+
+- We started @@html:<span class="ja">レボリューション</span>@@ against @@html:<span class="ja">城</span>@@ of the @@html:<span class="ja">鬼神</span>@@. Now, the body is happy because it thinks that the people of the revolution are thyroid hormones! @@html:<span class="ja"><mark>鬼神</mark>の<mark>城</mark>に対して、<mark>レボリューション</mark>を開始しました。今、体は革命の人たちを甲状腺ホルモンだと思い込んで喜んでいます！</span>@@
+
 * Desmopressin
 :PROPERTIES:
 :CUSTOM_ID: desmopressin
