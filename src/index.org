@@ -41,5 +41,5 @@ The content of this site is not intended as medical advice or as a diagnostic to
 Unless otherwise noted, original content on this site is licensed under [[https://raw.githubusercontent.com/tankensha/tankensha.github.io/main/LICENSE][GNU GENERAL PUBLIC LICENSE]]. @@html:<span class="ja">特に断りのない限り、このサイトのオリジナルコンテンツは<a href="https://raw.githubusercontent.com/tankensha/tankensha.github.io/main/LICENSE">GNU GENERAL PUBLIC LICENSE</a>の下でライセンスされています。</span>@@
 
 #+BEGIN_EXPORT html
-<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+<script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
 #+END_EXPORT
