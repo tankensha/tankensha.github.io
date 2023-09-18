@@ -21,10 +21,11 @@ Please have a look at the table below. Click on the link which you want to read.
 Please click on one of these links. @@html:<span class="ja">これらのリンクのいずれかをクリックしてください。</span>@@
 
 #+ATTR_HTML: :class sortable
-| Title            | Description                                                  |
-|------------------+--------------------------------------------------------------|
-| [[file:./learn/index.org][Learn - 学ぶ]]     | This has some study tips.                                    |
+| Title            | Description |
+|------------------+-------------|
+| [[file:./learn/index.org][Learn - 学ぶ]]     | This has some study tips. |
 | [[file:./resources/index.org][Resources - 資源]] | This has some resources that can help you in medical school. |
+| [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学 (cp)]] | This has some stories that helps you to remember the drugs. |
 
 * Disclaimer
 :PROPERTIES:
