@@ -23,5 +23,5 @@ These techniques have been proven by science. @@html:<span class="ja">これら�
 | [[file:./001.org][001]]  | [[file:./001.org::#org7e93de5][語呂合わせの表]]     |
 
 #+BEGIN_EXPORT html
-<script src="https://ahisu6.github.io/assets/js/sortTable.js"></script>
+<script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
 #+END_EXPORT
