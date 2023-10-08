@@ -43,3 +43,5 @@ You need to ask these questions for any presenting complaint @@html:<span class=
 @@html:So, to remember these, you can use the word <mark>DOP</mark>! Like the DOPs that you have to do in the hospital!!!! <span class="ja">で、これらを覚えるには、<mark>DOP</mark>という言葉を使うといいんです！病院でやらなければならないDOPsのようにね！！！！</span>@@
 
 すごいね？！
+
+Later, I will explain to you how to take a pain history!
