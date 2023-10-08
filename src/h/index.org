@@ -6,8 +6,6 @@
 
 -----
 
-#+TOC: headlines 2
-
 * List of topics
 :PROPERTIES:
 :CUSTOM_ID: htopics
