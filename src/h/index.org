@@ -1,6 +1,6 @@
 #+TITLE: History - 病歴聴取
 
-[[https://github.com/tankensha/tankensha.github.io/edit/main/src/h/001.org][Edit]]
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/h/index.org][Edit]]
 
 [[file:../index.org][Home]]
 
