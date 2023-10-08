@@ -23,7 +23,7 @@ Please click on one of these links. @@html:<span class="ja">これらのリン�
 #+ATTR_HTML: :class sortable
 | Title            | Description |
 |------------------+-------------|
-| [[file:./h/index.org][History - 病歴聴取]]     | This has some study tips. |
+| [[file:./h/index.org][History - 病歴聴取]]     | This will explain to you how to take a history. |
 | [[file:./learn/index.org][Learn - 学ぶ]]     | This has some study tips. |
 | [[file:./resources/index.org][Resources - 資源]] | This has some resources that can help you in medical school. |
 | [[file:./cp/index.org][Clinical Pharmacology - 臨床薬理学]] | This has some stories that helps you to remember the drugs. |
