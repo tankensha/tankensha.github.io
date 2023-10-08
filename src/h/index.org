@@ -1,0 +1,24 @@
+#+TITLE: History - 病歴聴取
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/h/001.org][Edit]]
+
+[[file:../index.org][Home]]
+
+-----
+
+#+TOC: headlines 2
+
+* List of topics
+:PROPERTIES:
+:CUSTOM_ID: htopics
+:END:
+
+#+ATTR_HTML: :class sortable
+| Page | Title                | Date posted |
+|------+----------------------+-------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#org8c96f99][Basics of symptoms]] |  2023-04-14 |
+
+
+#+BEGIN_EXPORT html
+<script src="https://tankensha.github.io/assets/js/sortTable.js"></script>
+#+END_EXPORT
