@@ -1,0 +1,45 @@
+#+TITLE: History - 病歴聴取
+
+[[https://github.com/tankensha/tankensha.github.io/edit/main/src/h/001.org][Edit]]
+
+[[file:./index.org][Home]]
+
+[[file:./002.org][Next page >>]]
+
+-----
+
+#+TOC: headlines 2
+
+* Basics of symptoms
+:PROPERTIES:
+:CUSTOM_ID: org8c96f99
+:END:
+
+Posted: 2023-04-14 | Updated: 2023-04-14
+
+Yo, what's up? How is life? Have you eaten your dinner yet?! @@html:<span class="ja"> よ～、調子はどうですか？生活はどうですか？もうご飯は食べましたか？！</span>@@
+
+Do you want to know a really cool trick to make sure that your history is /amazing/? @@html:<span class="ja">あなたの歴史を素晴らしいものにする、とてもクールなトリックを知りたくありませんか？</span>@@
+
+Keep reading. @@html:<span class="ja">読み進めてください。</span>@@
+
+Every time we get a patient, they will have some kind of symptom which is bothering them. They will complain about that symptom. This is called the "presenting complaint". @@html:<span class="ja">患者さんが来院されると、必ず何らかの症状があり、それを気にされます。そして、その症状を訴える。これを「主訴」と呼びます。</span>@@
+
+Now, as a detective, you need to figure out the cause of that symptom. So... you have to ask questions. A /lot/ of questions. @@html:<span class="ja">さて、探偵としては、その症状の原因を突き止める必要があります。だから...質問する必要があるんだ。たくさん質問するんだ。</span>@@
+
+But... how do we know what to ask? @@html:<span class="ja">でも... どうやって聞けばいいんだろう？</span>@@
+
+Easy!! @@html:<span class="ja">簡単なことです！！</span>@@
+
+There are 4 main questions which apply to /all/ symptoms. If you learn them, then you will be 90% of the way there! @@html:<span class="ja">すべての症状に当てはまる、4つの主要な質問があります。それを覚えれば、9割は解決します！</span>@@
+
+Okay, ready? Here we go.
+
+You need to ask these questions for any presenting complaint @@html:<span class="ja">どのような症状に遭遇しても、これらの質問をする必要があります</span>@@:
+1. @@html:<mark>D</mark>uration@@: how long has this been going on for? @@html:<span class="ja">症状の持続時間: いつからそうなっているのでしょうか？</span>@@
+2. @@html:<mark>O</mark>nset@@: when did it start? @@html:<span class="ja">症状の発現時間: いつから始まったのですか？</span>@@
+3. @@html:<mark>P</mark>rogress and time@@: did it get better or worse? Is it there all the time? Is there just in the morning? Is there after food/drink? @@html:<span class="ja">症状の進行と時期: 良くなったのか、悪くなったのか？ずっとあるのでしょうか？朝だけですか？食べ物や飲み物の後にありますか？</span>@@
+
+@@html:So, to remember these, you can use the word <mark>DOP</mark>! Like the DOPs that you have to do in the hospital!!!! <span class="ja">で、これらを覚えるには、<mark>DOP</mark>という言葉を使うといいんです！病院でやらなければならないDOPsのようにね！！！！</span>@@
+
+すごいね？！
