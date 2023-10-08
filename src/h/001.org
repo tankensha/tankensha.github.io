@@ -1,4 +1,4 @@
-#+TITLE: History - 病歴聴取
+#+TITLE: History 001
 
 [[https://github.com/tankensha/tankensha.github.io/edit/main/src/h/001.org][Edit]]
 
