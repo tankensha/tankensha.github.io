@@ -8,6 +8,56 @@
 
 #+TOC: headlines 2
 
+* Tagging cards in Anki
+:PROPERTIES:
+:CUSTOM_ID: orgfc4953b
+:END:
+
+Posted: 2023-10-11 | Updated: 2023-10-11
+
+Hello!
+
+So, to tag your cards in Anki, you first need a tagging system. @@html:<span class="ja">Ankiでカードにタグを付けるには、まずタグ付けシステムが必要です。</span>@@
+
+There are many tagging systems which you can use. But, I will suggest this system for you. Then, you can change it to whatever you like. @@html:<span class="ja">タグ付けシステムはたくさんある。しかし、私はあなたにこのシステムを提案する。その後、好きなように変更することができる。</span>@@
+
+Each year, you will have few blocks of teaching @@html:<span class="ja">毎年、数ブロックの授業がある</span>@@:
+- Musculoskeletal block.
+- Gastrointestinal block.
+- Neurological block.
+- and many others.
+
+So, let's create tags for these @@html:<span class="ja">では、これらのタグを作ってみよう</span>@@:
+- MSK
+- GI
+- NEU
+- and then keep creating tags for whatever block you have!
+
+Greate. Now, in each block, you will have a certain number of lectures for each subject. For example, you might have 7 anatomy lectures and 4 pharmacology in the GI block. So, we need a system for that! @@html:<span class="ja">素晴らしい。さて、各ブロックでは、各科目の講義数が決まっています。例えば、GIブロックでは解剖学が7つ、薬理学が4つといった具合です。ですから、そのためのシステムが必要なのです！</span>@@
+
+The way you do this is by increasing the number of the tag. For example, let's say you have 4 pharmacology lectures in the GI block, you will need to create the following four tags @@html:<span class="ja">その方法は、タグの数を増やすことです。例えば、GIブロックに4つの薬理学講義があるとすると、次の4つのタグを作成する必要があります</span>@@:
+- Pharmacology01
+- Pharmacology02
+- Pharmacology03
+- Pharmacology04
+
+You should do the same for the other subjects. For example, if you have 2 microbiology lectures in the musculoskeletal block, then you should create two tags @@html:<span class="ja">他の科目についても同様にしてください。例えば、筋骨格系ブロックに2つの微生物学の講義がある場合、次の2つのタグを作成します</span>@@:
+- Microbiology01
+- Microbiology02
+
+Now, let's see how we should tag the cards. See this [[https://drive.google.com/uc?export=view&id=1W8bU8hKMlKyiCm0XzL83NOZPIyoCIitV][picture]]! @@html:<span class="ja">では、カードにどのようにタグを付けるべきか見てみよう。</span>@@
+
+In order for this system to work well, you need to make sure that the lectures are saved on your computer like this @@html:<span class="ja">このシステムがうまく機能するためには、講義が次のようにコンピュータに保存されていることを確認する必要があります</span>@@:
+- GI block folder
+  - Anatomy folder
+    01. Anatomy of the large intestines
+    02. Anatomy of the small intestines
+    03. The pancreas
+
+Do you see how each lecture has a number? This will keep our files organised! @@html:<span class="ja">各講義に番号が振られているのがわかりますか？これでファイルの整理ができます！</span>@@
+
+It is very important to note that the tag numbers should match the numbers of the files stored on your computer. So, ~Anatomy02~ should match ~02. Anatomy of the small intestines~ lecture. @@html:<span class="ja">タグの番号は、コンピューターに保存されているファイルの番号と一致させることが非常に重要です。つまり、「Anatomy02」は「02. Anatomy of the small intestines」の講義に対応するはずだ。</span>@@
+
 * 暗記
 :PROPERTIES:
 :CUSTOM_ID: org58f2c22
