@@ -53,6 +53,12 @@ In order for this system to work well, you need to make sure that the lectures a
     01. Anatomy of the large intestines
     02. Anatomy of the small intestines
     03. The pancreas
+  - Pharmacology folder
+    01. Constipation
+  - Microbiology folder
+- MSK block folder
+  - Anatomy folder
+    01. Muscles of the arm
 
 Do you see how each lecture has a number? This will keep our files organised! @@html:<span class="ja">各講義に番号が振られているのがわかりますか？これでファイルの整理ができます！</span>@@
 
