@@ -50,17 +50,17 @@ Now, let's see how we should tag the cards. See this [[https://drive.google.com/
 In order for this system to work well, you need to make sure that the lectures are saved on your computer like this @@html:<span class="ja">このシステムがうまく機能するためには、講義が次のようにコンピュータに保存されていることを確認する必要があります</span>@@:
 - GI block folder
   - Anatomy folder
-    01. Anatomy of the large intestines PPT
-    02. Anatomy of the small intestines PPT
-    03. The pancreas PPT
+    01. @@html:<mark>Anatomy of the large intestines PPT</mark>@@
+    02. @@html:<mark>Anatomy of the small intestines PPT</mark>@@
+    03. @@html:<mark>The pancreas PPT</mark>@@
   - Pharmacology folder
-    01. Constipation PPT
+    01. @@html:<mark>Constipation PPT</mark>@@
   - Microbiology folder
-    01. Intestinal microbiome PPT
-    02. Diarrhoea PPT
+    01. @@html:<mark>Intestinal microbiome PPT</mark>@@
+    02. @@html:<mark>Diarrhoea PPT</mark>@@
 - MSK block folder
   - Anatomy folder
-    01. Muscles of the arm PPT
+    01. @@html:<mark>Muscles of the arm PPT</mark>@@
 
 Do you see how each lecture has a number? This will keep our files organised! @@html:<span class="ja">各講義に番号が振られているのがわかりますか？これでファイルの整理ができます！</span>@@
 
