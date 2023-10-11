@@ -62,6 +62,8 @@ In order for this system to work well, you need to make sure that the lectures a
 
 Do you see how each lecture has a number? This will keep our files organised! @@html:<span class="ja">各講義に番号が振られているのがわかりますか？これでファイルの整理ができます！</span>@@
 
+The number increases every time you get a new lecture. @@html:<span class="ja">新しい講義を受けるたびにその数は増えていく。</span>@@
+
 It is very important to note that the tag numbers should match the numbers of the files stored on your computer. So, ~Anatomy02~ should match ~02. Anatomy of the small intestines~ lecture. @@html:<span class="ja">タグの番号は、コンピューターに保存されているファイルの番号と一致させることが非常に重要です。つまり、「Anatomy02」は「02. Anatomy of the small intestines」の講義に対応するはずだ。</span>@@
 
 * 暗記
