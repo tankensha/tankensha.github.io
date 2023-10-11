@@ -18,6 +18,7 @@ These techniques have been proven by science. @@html:<span class="ja">これら�
 #+ATTR_HTML: :class sortable
 | Page | Title              |
 |------+--------------------|
+| [[file:./001.org][001]]  | [[file:./001.org::#orgfc4953b][Tagging cards in Anki]] |
 | [[file:./001.org][001]]  | [[file:./001.org::#org58f2c22][暗記]] |
 | [[file:./001.org][001]]  | [[file:./001.org::#org4279268][繰り返し、記憶する]] |
 | [[file:./001.org][001]]  | [[file:./001.org::#org7e93de5][語呂合わせの表]]     |
